@@ -1,0 +1,9 @@
+{
+  "name": "sourashtra-chatbot",
+  "version": "1.0.0",
+  "description": "Sourashtra Language Computational Chatbot",
+  "scripts": {
+    "build": "node --check app.js && node --check dictionary.js",
+    "test": "node --check app.js && node --check dictionary.js"
+  }
+}
